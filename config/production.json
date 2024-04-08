@@ -1,9 +1,9 @@
 {
   "name": "SuperApp - Api Gateway: production",
   "service": {
-    "package": "http://localhost:8001",
-    "delivery": "http://localhost:8002",
-    "user": "http://localhost:8003",
+    "package": "https://pk-package-service.onrender.com/",
+    "delivery": "https://pk-delivery-service.onrender.com/",
+    "user": "https://pk-user-service.onrender.com/",
     "web": "http://localhost:4200"
   }
 }
