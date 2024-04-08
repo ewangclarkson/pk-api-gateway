@@ -1,9 +1,9 @@
 {
   "name": "SuperApp - Api Gateway: production",
   "service": {
-    "package": "https://pk-package-service.onrender.com/",
-    "delivery": "https://pk-delivery-service.onrender.com/",
-    "user": "https://pk-user-service.onrender.com/",
-    "web": "http://localhost:4200"
+    "package": "https://pk-package-service.onrender.com",
+    "delivery": "https://pk-delivery-service.onrender.com",
+    "user": "https://pk-user-service.onrender.com",
+    "web": "https://packagetracker.vercel.app"
   }
 }
